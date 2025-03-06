@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+twilio
+python-dotenv
+elevenlabs
+starlette
+python-multipart
+pydub
+PyYAML==5.3.1
+orator
