@@ -1,19 +1,4 @@
 # SNSSystem-Elevenlabs-Twilio-Conversational-AI-Outbound-Call
-SNS System Elevenlabs-Twilio-Conversational-AI-Outbound-Call
-
-An open-source project that integrates ElevenLabs AI with Twilio to create an AI-powered outbound call system. This project allows users to initiate AI-driven voice calls using ElevenLabs' conversational AI capabilities and Twilio's telephony services.
-
-# Features
-
-AI-Powered Calls: Uses ElevenLabs for conversational AI speech generation.
-
-Twilio Integration: Facilitates outbound calls via Twilio's API.
-
-Customizable Conversations: Modify AI-generated speech and responses.
-
-Secure API Integration: Uses .env file for managing API keys securely.
-
-# SNSSystem-Elevenlabs-Twilio-Conversational-AI-Outbound-Call
 
 An open-source project that integrates **ElevenLabs AI** with **Twilio** to create an AI-powered outbound call system. This project allows users to initiate AI-driven voice calls using ElevenLabs' conversational AI capabilities and Twilio's telephony services.
 
