@@ -126,20 +126,3 @@ For any issues, please create an [issue](https://github.com/snsfrisco/SNSSystem-
 
 ---
 
-## .env File Example
-
-```
-ELEVENLABS_API_KEY=
-ELEVENLABS_AGENT_ID=
-
-TWILIO_ACCOUNT_SID=
-TWILIO_AUTH_TOKEN=
-TWILIO_PHONE_NUMBER=
-
-MYSQL_USER=root
-MYSQL_PASSWORD=root
-MYSQL_HOST=localhost
-MYSQL_PORT=3306
-MYSQL_DB=call_data
-```
-
