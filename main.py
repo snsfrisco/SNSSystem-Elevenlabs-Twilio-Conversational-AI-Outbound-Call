@@ -21,8 +21,8 @@ TWILIO_AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN")
 TWILIO_PHONE_NUMBER = os.getenv("TWILIO_PHONE_NUMBER")
 
 # ElevenLabs Credentials
-ELEVENLABS_API_KEY = os.getenv("ELEVENLABSAPI_KEY", "sk_d0136d652bdcc7ede02d584c8d6e899f33ef381bf4989cdd")
-ELEVEN_LABS_AGENT_ID = os.getenv("ELEVENLABSAGENT_ID", "nXAh2wJJwDcuAggnBsTC")
+ELEVENLABS_API_KEY = os.getenv("ELEVENLABSAPI_KEY", None)
+ELEVEN_LABS_AGENT_ID = os.getenv("ELEVENLABSAGENT_ID", None)
 
 # Initialize FastAPI app
 app = FastAPI()
